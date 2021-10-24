@@ -11,4 +11,6 @@ A website that offers fitness training services
 https://dcarteciano.github.io/run-buddy/
 
 ## Contribution
-Made by Darryl Carteciano
+Made with ❤️ by Darryl Carteciano
+
+### ©️2019 Run Buddy, Inc 
